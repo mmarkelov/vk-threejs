@@ -79,7 +79,7 @@ const Panorama = props => {
           </HeaderButton>
         }
       >
-        Skybox Panorama
+        Skybox Panorama by Emil Persson, aka Humus. http://www.humus.name
       </PanelHeader>
       <div style={{ position: 'fixed' }} ref={mounter} />
     </Panel>
