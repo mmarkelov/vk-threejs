@@ -10,8 +10,9 @@
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "",
+  "author": "mmarkelov",
   "license": "MIT",
+  "homepage": "https://mmarkelov.github.io/vk-threejs/",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "gh-pages": "^2.0.1",
